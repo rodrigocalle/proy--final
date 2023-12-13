@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/proy--final/static/css/main.b10480ae.css",
+    "main.js": "/proy--final/static/js/main.cce7bc7f.js",
+    "static/js/787.69c48f63.chunk.js": "/proy--final/static/js/787.69c48f63.chunk.js",
+    "static/media/Rostro_Asado_Orureño.jpg": "/proy--final/static/media/Rostro_Asado_Orureño.b2dce1826a642f3702be.jpg",
+    "static/media/salteña.jpg": "/proy--final/static/media/salteña.7777b9b1b84decd83984.jpg",
+    "static/media/bandera.jpg": "/proy--final/static/media/bandera.b0bbe72ade6986de5afe.jpg",
+    "static/media/salteña1.jpeg": "/proy--final/static/media/salteña1.e3c9bc0390f586fbeab7.jpeg",
+    "static/media/salar.jpeg": "/proy--final/static/media/salar.3671179b50eac7420fe2.jpeg",
+    "static/media/salteña4.jpg": "/proy--final/static/media/salteña4.c62441ee1387849b5d25.jpg",
+    "static/media/paseño4.jpg": "/proy--final/static/media/paseño4.ae328e9becfa80e5e89b.jpg",
+    "static/media/chuima.jpg": "/proy--final/static/media/chuima.9e7c642a12e88e542d82.jpg",
+    "static/media/img2.jpg": "/proy--final/static/media/img2.faa02407bbdd8c27c018.jpg",
+    "static/media/asado.jpg": "/proy--final/static/media/asado.ad8b55c50634fbf45bfd.jpg",
+    "static/media/pique.jpg": "/proy--final/static/media/pique.5172e64851310ceb38b8.jpg",
+    "static/media/cal2.jpg": "/proy--final/static/media/cal2.a55111b5970a590ffae3.jpg",
+    "static/media/asdito.jpg": "/proy--final/static/media/asdito.54afc595f5c5b7e9b1e0.jpg",
+    "static/media/cal1.jpg": "/proy--final/static/media/cal1.bde73d76ad58943fc05e.jpg",
+    "static/media/logo.png": "/proy--final/static/media/logo.ea29f45085aa55af787b.png",
+    "static/media/paseño1.jpg": "/proy--final/static/media/paseño1.a5a049fb70f014058ae7.jpg",
+    "static/media/paseño2.jpg": "/proy--final/static/media/paseño2.1f15223bd167d7c8b05d.jpg",
+    "static/media/caseras.jpg": "/proy--final/static/media/caseras.6f6a968dd261b5de0e2d.jpg",
+    "static/media/plato.jpg": "/proy--final/static/media/plato.94f9db44d806d6650ba5.jpg",
+    "static/media/pique1.jpg": "/proy--final/static/media/pique1.fffc6204c770dc7a9127.jpg",
+    "static/media/pique2.jpg": "/proy--final/static/media/pique2.f09ea4c19da22e416562.jpg",
+    "static/media/salteña7.jpg": "/proy--final/static/media/salteña7.7216c686c78223f0ae89.jpg",
+    "static/media/paseño6.jpg": "/proy--final/static/media/paseño6.87eee230c70ba11ea003.jpg",
+    "static/media/pique3.jpg": "/proy--final/static/media/pique3.799db4dedfc41d94960c.jpg",
+    "static/media/paseño3.jpg": "/proy--final/static/media/paseño3.2a138b675e57b49edffb.jpg",
+    "static/media/silpancho.jpg": "/proy--final/static/media/silpancho.6b552719c222d3f0e406.jpg",
+    "static/media/paseño5.jpg": "/proy--final/static/media/paseño5.fa0a55238b19657e4348.jpg",
+    "index.html": "/proy--final/index.html",
+    "main.b10480ae.css.map": "/proy--final/static/css/main.b10480ae.css.map",
+    "main.cce7bc7f.js.map": "/proy--final/static/js/main.cce7bc7f.js.map",
+    "787.69c48f63.chunk.js.map": "/proy--final/static/js/787.69c48f63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10480ae.css",
+    "static/js/main.cce7bc7f.js"
+  ]
+}
